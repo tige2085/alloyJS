@@ -1,2 +1,2 @@
 # alloyJS
-an embedding Alloy in nodeJS
+linking Alloy to nodeJS
